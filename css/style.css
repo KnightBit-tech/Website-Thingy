@@ -50,7 +50,7 @@ img {
 /** Logo **/
 #logo {
 	height: 200px;
-	background-image: url("/home/aliendev/Desktop/Alien/Programming/HTML/Shopping Website/images/logo.png");
+	background-image: url("/images/logo.png");
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
