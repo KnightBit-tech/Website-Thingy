@@ -37,7 +37,7 @@ img {
 {
 	height: 350px;
 	width: 100%;
-	background-image: url("/home/aliendev/Desktop/Alien/Programming/HTML/Shopping Website/images/Bannerimg.png");
+	background-image: url("../images/Bannerimg.png");
 	background-repeat: no-repeat
 	
 }
@@ -50,7 +50,7 @@ img {
 /** Logo **/
 #logo {
 	height: 200px;
-	background-image: url("/images/logo.png");
+	background-image: url("../images/logo.png");
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
