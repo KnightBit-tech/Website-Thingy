@@ -37,14 +37,14 @@ img {
 {
 	height: 350px;
 	width: 100%;
-	background-image: url("../images/Bannerimg.png");
+	background-image: url("/home/aliendev/Desktop/Alien/Programming/HTML/Shopping Website/images/Bannerimg.png");
 	background-repeat: no-repeat
 	
 }
 
 /*------------------------------ HEADER ------------------------------*/
 #header {
-	background: url(/images/bg-header.png) no-repeat center top;
+	background: url(../images/bg-header.png) no-repeat center top;
 	margin-bottom: 36px;
 }
 /** Logo **/
